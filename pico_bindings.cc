@@ -167,6 +167,7 @@ static void PrintInfo_Binding(void *context, const char *commandLine) {
   }
   Console::Printf("\n");
   Console::Printf("  Firmware: Javelin %s\n", GetBuildDate());
+  Console::Printf("  Configuration: " JAVELIN_BOARD "\n");
   Console::Printf("  ");
   MainReportBuilder::instance.PrintInfo();
 
@@ -175,17 +176,13 @@ static void PrintInfo_Binding(void *context, const char *commandLine) {
 #endif
 
   Console::Printf("Memory\n");
-  Console::Printf("  Data: %zu\n", __data_end__ - __data_start__);
-  Console::Printf("  BSS: %zu\n", __bss_end__ - __bss_start__);
-  Console::Printf("  Total static allocation: %zu\n",
-                  __bss_end__ - __data_start__);
+  Console::Printf("  Static: %zu (%zu data, %zu bss)\n",
+                  __bss_end__ - __data_start__, __data_end__ - __data_start__,
+                  __bss_end__ - __bss_start__);
   const struct mallinfo info = mallinfo();
-  Console::Printf("  Dynamic free blocks: %zu\n", info.ordblks);
-  Console::Printf("  Dynamic used: %zu\n", info.uordblks);
-  Console::Printf("  Dynamic free: %zu\n", info.fordblks);
-  Console::Printf("  Total dynamic allocation: %zu\n", info.arena);
-  Console::Printf("  Total allocation: %zu\n",
-                  info.arena + __bss_end__ - __data_start__);
+  Console::Printf("  Dynamic: %zu (%zu used, %zu free)\n", info.arena,
+                  info.uordblks, info.fordblks);
+  Console::Printf("  Total: %zu\n", info.arena + __bss_end__ - __data_start__);
 
   Flash::PrintInfo();
   HidReportBufferBase::PrintInfo();

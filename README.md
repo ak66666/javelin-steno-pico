@@ -87,4 +87,4 @@ error: uinitialized const member in 'const char []'
 
 This means that you're running an older version of the toolchain that has a
 compiler bug. Update to a newer version at
-https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
+https://gitlab.arm.com/tooling/gnu-toolchains-for-arm

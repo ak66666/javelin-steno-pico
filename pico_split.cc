@@ -223,7 +223,7 @@ void PicoSplit::SplitData::OnReceiveFailed() {
     isConnected = false;
     updateSendData = true;
     retryCount = 0;
-    metrics[SplitMetricId::RESET_COUNT]++;
+    metrics[SplitMetricId::CONNECTION_RESET_COUNT]++;
 
     RxBuffer::OnConnectionReset();
     TxBuffer::OnConnectionReset();

@@ -14,6 +14,7 @@ add_definitions(
   -fno-devirtualize-speculatively
   -fno-exceptions
   -DJAVELIN_BOARD_CONFIG=\"config/${JAVELIN_BOARD}.h\"
+  -DJAVELIN_BOARD="${JAVELIN_BOARD}"
   -DJAVELIN_PLATFORM_PICO_SDK=1
   -DJAVELIN_THREADS=1
   -DJAVELIN_SPLIT_VERSION_INCREMENT=3
@@ -26,6 +27,7 @@ add_definitions(
   -DPICO_PANIC_FUNCTION=0
 )
 
+set(PICO_DEFAULT_THREAD_LOCAL_IMPL none)
 include($ENV{PICO_SDK_PATH}/external/pico_sdk_import.cmake)
 
 if (PICO_PLATFORM STREQUAL "rp2040")
