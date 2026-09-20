@@ -25,10 +25,9 @@
 // clang-format off
 constexpr uint8_t BUTTON_PINS[] = {
    0x7f, 0x7f, 0x7f, 0x7f, 0x7f, 0x7f,       /**/     20, 22, 26, 27, 28, 29,
-   0x7f, 0x7f, 0x7f, 0x7f, 0x7f, 0x7f, 0x7f, /**/  5,  6,  7,  8,  9, 21, 23,
-};
-
-
+   0x7f, 0x7f, 0x7f, 0x7f, 0x7f,             /**/          7,  8,  9, 21, 23,
+                                 0x7f, 0x7f,       5,  6,  
+}
 // clang-format off
 //
 // Button indexes
