@@ -1,0 +1,2081 @@
+{
+	"layers": [
+		{
+			"id": 87377230,
+			"name": "Stenography",
+			"keys": [
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoNum1"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoNum1"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoS1"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoS1"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoTL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoTL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoPL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoPL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoHL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoHL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoStar1"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoStar1"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoStar3"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoStar3"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoFR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoFR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoPR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoPR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoLR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoLR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoTR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoTR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoDR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoDR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoNum1"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoNum1"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoS2"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoS2"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoKL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoKL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoWL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoWL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoRL"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoRL"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoRR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoRR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoBR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoBR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoGR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoGR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoSR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoSR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoZR"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoZR"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoA"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoA"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoO"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoO"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoE"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoE"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "stenoU"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "stenoU"
+							}
+						}
+					}
+				]
+			],
+			"options": {
+				"RGB Mode": "<default>",
+				"Enable individual keys in Key Layout tool": "<default>"
+			}
+		},
+		{
+			"id": 1128808786,
+			"name": "QWERTY",
+			"keys": [
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "tab"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "tab"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "q"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "q"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "w"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "w"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "e"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "e"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "r"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "r"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "t"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "t"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "l",
+								"l": 87377230
+							}
+						}
+					}
+				],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "y"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "y"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "u"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "u"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "i"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "i"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "o"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "o"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "p"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "p"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "backspace"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "backspace"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftControl"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftControl"
+							}
+						}
+					},
+					{
+						"t": "t",
+						"d": {
+							"t": 200,
+							"e": false,
+							"a": {
+								"t": "t",
+								"c": "esc"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "a"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "a"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "s"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "s"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "d"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "d"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "g"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "g"
+							}
+						}
+					}
+				],
+				[],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "h"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "h"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "j"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "j"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "k"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "k"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "l"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "l"
+							}
+						}
+					}
+				]
+			],
+			"options": {
+				"RGB Mode": "Blue"
+			}
+		},
+		{
+			"id": 50258991,
+			"name": "Symbols",
+			"keys": [
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n1"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n1"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n2"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n2"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n3"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n3"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n4"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n4"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n5"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n5"
+							}
+						}
+					}
+				],
+				[],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n6"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n6"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n7"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n7"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n8"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n8"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n9"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n9"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n0"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n0"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "equal",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "equal",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n1",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n1",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n2",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n2",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n3",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n3",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n4",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n4",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n5",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n5",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n6",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n6",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n7",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n7",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n8",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n8",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "n9",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "n9",
+								"m": [
+									"leftShift"
+								]
+							}
+						}
+					}
+				]
+			],
+			"options": {
+				"RGB Mode": "Blue"
+			}
+		},
+		{
+			"id": 175277611,
+			"name": "Function",
+			"keys": [
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f9"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f9"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f10"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f10"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f11"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f11"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f12"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f12"
+							}
+						}
+					}
+				],
+				[],
+				[],
+				[],
+				[],
+				[],
+				[],
+				[],
+				[],
+				[],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f5"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f5"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f6"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f6"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f7"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f7"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "f8"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "f8"
+							}
+						}
+					}
+				],
+				[],
+				[],
+				[],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "rightShift"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "rightShift"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "rightControl"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "rightControl"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "rightAlt"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "rightAlt"
+							}
+						}
+					}
+				]
+			],
+			"options": {
+				"RGB Mode": "Blue"
+			}
+		},
+		{
+			"id": 122649869,
+			"name": "Navigation",
+			"keys": [
+				[],
+				[],
+				[],
+				[],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "brightnessUp"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "brightnessUp"
+							}
+						}
+					}
+				],
+				[],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "mediaVolumeUp"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "mediaVolumeUp"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "backspace"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "backspace"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "up"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "up"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "del"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "del"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "pgUp"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "pgUp"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "home"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "home"
+							}
+						}
+					}
+				],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftCommand"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftCommand"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftAlt"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftAlt"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftControl"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftControl"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "leftShift"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "leftShift"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "brightnessDown"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "brightnessDown"
+							}
+						}
+					}
+				],
+				[],
+				[],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "mediaVolumeDown"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "mediaVolumeDown"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "left"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "left"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "down"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "down"
+							}
+						}
+					}
+				],
+				[
+					{
+						"t": "p",
+						"d": {
+							"a": {
+								"t": "p",
+								"c": "right"
+							}
+						}
+					},
+					{
+						"t": "r",
+						"d": {
+							"a": {
+								"t": "r",
+								"c": "right"
+							}
+						}
+					}
+				]
+			],
+			"options": {
+				"RGB Mode": "Blue"
+			}
+		}
+	],
+	"global": {
+		"layer": {
+			"id": -1,
+			"name": "Global",
+			"scripts": {
+				"header": "const TIMER_ID_RGB_UPDATE = 0;\n\nvar speed = 1;\nvar hueSpread = 4;\nvar hueShift = 0;\nvar brightness = 3;\nvar saturation = 5;\n",
+				"init": "rgbUpdate();\nstartTimer(TIMER_ID_RGB_UPDATE, 30, 1, @rgbUpdate);",
+				"activateLayer": "setEnableButtonStates(#flag(per_layer, \"Enable individual keys in Key Layout tool\", false));\n"
+			},
+			"user_scripts": {
+				"RGB": "const SPEED_VALUES      = [[ 00 04 08 0c 10 18 20 30 40 ]];\nconst HUE_SPREAD_VALUES = [[ 00 10 20 28 30 38 40 48 50 ]];\nconst SATURATION_VALUES = [[ 00 20 40 50 60 68 70 78 80 ]];\nconst BRIGHTNESS_VALUES = [[ 00 08 10 20 40 60 80 c0 ff ]];\n\nfunc rgbUpdateKeyHueCycle(hShift, sat, spreadMultiplier, value) {\n  const HUE_CYCLE_RGB_ORDER = [[\n    00\n    0e 01\n    1c 0f 02\n    1d 10 03\n    1e 11 04\n    1f 12 05\n    20 13 06\n    28 21 14\n    29\n    2a\n\n    2b\n    2c \n    2d 22 15\n    23 16 07\n    24 17 08\n    25 18 09\n    26 19 0a\n    27 1a 0b\n    1b 0c\n    0d\n  ]];\n\n  for (var i = 0; i < 46; i = i + 1) {\n    setHsv(\n      HUE_CYCLE_RGB_ORDER[i],\n      spreadMultiplier*i + hShift,\n      sat,\n      value\n    );\n  }\n}\n\n#option(rgbUpdate, \"RGB Mode\", \"Hue Cycle\", rgbUpdateHueCycle)\nfunc rgbUpdateHueCycle() {\n    var hue = animationTime() * SPEED_VALUES[speed] + hueShift;\n    rgbUpdateKeyHueCycle(\n      hue,\n      SATURATION_VALUES[saturation] * 2,\n      HUE_SPREAD_VALUES[hueSpread] * 16,\n      BRIGHTNESS_VALUES[brightness]\n    );\n}\n\nfunc rgbUpdateKeyConstantColor(r, g, b) {\n  for (var i = 0; i < 46; i = i + 1) {\n    setRgb(i, r, g, b);\n  }\n}\n\n// 256 step sine table.\nconst SINE_TABLE = [[ 80 83 86 89 8c 8f 92 95 98 9b 9e a2 a5 a7 aa ad b0 b3 b6 b9 bc be c1 c4 c6 c9 cb ce d0 d3 d5 d7 da dc de e0 e2 e4 e6 e8 ea eb ed ee f0 f1 f3 f4 f5 f6 f8 f9 fa fa fb fc fd fd fe fe fe ff ff ff ff ff ff ff fe fe fe fd fd fc fb fa fa f9 f8 f6 f5 f4 f3 f1 f0 ee ed eb ea e8 e6 e4 e2 e0 de dc da d7 d5 d3 d0 ce cb c9 c6 c4 c1 be bc b9 b6 b3 b0 ad aa a7 a5 a2 9e 9b 98 95 92 8f 8c 89 86 83 80 7c 79 76 73 70 6d 6a 67 64 61 5d 5a 58 55 52 4f 4c 49 46 43 41 3e 3b 39 36 34 31 2f 2c 2a 28 25 23 21 1f 1d 1b 19 17 15 14 12 11 0f 0e 0c 0b 0a 09 07 06 05 05 04 03 02 02 01 01 01 00 00 00 00 00 00 00 01 01 01 02 02 03 04 05 05 06 07 09 0a 0b 0c 0e 0f 11 12 14 15 17 19 1b 1d 1f 21 23 25 28 2a 2c 2f 31 34 36 39 3b 3e 41 43 46 49 4c 4f 52 55 58 5a 5d 61 64 67 6a 6d 70 73 76 79 7c ]];\n#option(rgbUpdate, \"RGB Mode\", \"Breathe\", rgbUpdateKeyBreatheCycle)\n#option(rgbUpdateUnderglow, \"RGB Mode\", \"Breathe\", noop)\nfunc rgbUpdateKeyBreatheCycle() {\n  // Sine wave between 4-20 brightness, with staggering of r, g, b values\n  // to reduce harsh steps.\n  var w = (0xc00 + (SINE_TABLE[(animationTime() >> 5) & 0xff] - 0x80) * (2 * 8));\n  rgbUpdateKeyConstantColor((w + 0x53) >> 8, w >> 8, (w + 0xa6) >> 8);\n}\n\nconst DISCONNECTED_KEY_ORDER = [[ 00 01 02 03 04 05 04 03 02 01 ]];\nfunc rgbUpdateKeyConnectingCycle() {\n  for (var i = 0; i < 54; i = i + 1) {\n    setRgb(i, 0, 0, 0);\n  }\n\n  var index = getTime() >> 6;\n  var keyId = DISCONNECTED_KEY_ORDER[index % 10];\n  setHsv(keyId, index << 10, 0xf0, 16);\n}\n\nfunc animationTime() var {\n  return getTime();\n}\n\nfunc rgbUpdate() {\n  if (isHostSleeping()) {\n    rgbUpdateKeyBreatheCycle();\n  } else {\n    #dispatch(per_layer, rgbUpdate, \"RGB Mode\", rgbUpdateHueCycle);\n  }\n}\n\nfunc setKeyRgb(r, g, b) {\n  r = r * brightness >> 3;\n  g = g * brightness >> 3;\n  b = b * brightness >> 3;\n  for(var i = 0; i < 46; i = i + 1) {\n    setRgb(i, r, g, b);\n  }\n}\n\n#option(rgbUpdate, \"RGB Mode\", \"Red\", rgbUpdateRed)\nfunc rgbUpdateRed() {\n  setKeyRgb(255, 0, 0);\n}\n\n#option(rgbUpdate, \"RGB Mode\", \"Green\", rgbUpdateGreen)\nfunc rgbUpdateGreen() {\n  setKeyRgb(0, 255, 0);\n}\n\n#option(rgbUpdate, \"RGB Mode\", \"Blue\", rgbUpdateBlue)\nfunc rgbUpdateBlue() {\n  setKeyRgb(0, 0, 255);\n}\n\n",
+				"Encoders": "func onEncoderInput0(delta) {\n  printValue(\"onEncoderInput0\", delta);\n  tapScanCode(delta > 0 ? 0xd9 : 0xda);\n}\n\nfunc onEncoderInput1(delta) {\n  printValue(\"onEncoderInput1\", delta);\n  tapScanCode(delta > 0 ? 0xd9 : 0xda);\n}\n\nfunc onEncoderInput2(delta) {\n  printValue(\"onEncoderInput2\", delta);\n  tapScanCode(delta > 0 ? 0xd9 : 0xda);\n}\n\nfunc onEncoderInput3(delta) {\n  printValue(\"onEncoderInput3\", delta);\n  tapScanCode(delta > 0 ? 0xd9 : 0xda);\n}\n"
+			}
+		}
+	}
+}
