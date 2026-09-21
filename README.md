@@ -88,3 +88,15 @@ error: uinitialized const member in 'const char []'
 This means that you're running an older version of the toolchain that has a
 compiler bug. Update to a newer version at
 https://gitlab.arm.com/tooling/gnu-toolchains-for-arm
+
+
+
+# Adding dictionaries
+
+AK66666 notes:
+By default this project generates firmware with Plover dictionary.
+As I understand, there is currently no way of modifying that behaviour.
+
+There is a workaround though.
+You need to generate the firmware with desired set of dictionaries in the web firmware creation tool. 
+Flash that "intermediate" firmware to the board, then override it with your version produced with javelin-steno-pico.
