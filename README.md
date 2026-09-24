@@ -100,3 +100,16 @@ As I understand, there is currently no way of modifying that behaviour.
 There is a workaround though.
 You need to generate the firmware with desired set of dictionaries in the web firmware creation tool. 
 Flash that "intermediate" firmware to the board, then override it with your version produced with javelin-steno-pico.
+
+Explanation from Tharelia:
+When you create a firmware online, it bundles:
+- The firmware image for your hardware
+- Settings (e.g. Keyboard emulation, space before, etc.)
+- Host Layout(s)
+- Dictionaries
+- Steno System (e.g. Steno vs Extended Steno vs Regenpfeifer, etc)
+- Orthographic Word List
+- Layout configuration
+
+Building your own firmware locally and uploading it only replaces the first one.
+
